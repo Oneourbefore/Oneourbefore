@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm NamKyoungHyun</h1>
-<h3 align="center">I am a student majoring in “Data Science Software” and am interested in developing a data analysis platform.</h3>
+<h3 align="left">“데이터사이언스 소프트웨어 ”를 연계전공하고 있는 학생으로 데이터분석 플랫폼 개발에 관심이 있습니다.</h3>
+<h3 align="left">전반적인 개발을 진행하며 , IT 기획 , IT 프로젝트 관리 등 전사적인 프로젝트를 관리하는데 관심이 많습니다.</h3>
+<h3 align="left">산업공학도로서 대안 속에서 문제를 발견 하고 최적의 해결책을 통해 가치를 도출 하는 일련의 프로세스를 좋아합니다.</h3>
 
 - 🔭 I’m currently working on **Dongguk university**
 
 - 👨‍💻 All of my projects are available at [https://gusty-flock-5cd.notion.site/8549b343371e43f290a0725b6c07635f](https://gusty-flock-5cd.notion.site/8549b343371e43f290a0725b6c07635f)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me  :  david1510@naver.com</h3>
+
 <p align="left">
 </p>
 
