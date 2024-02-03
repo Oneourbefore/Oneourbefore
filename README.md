@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm NamKyoungHyun</h1>
-<h3 align="left">“데이터사이언스 소프트웨어 ”를 연계전공하고 있는 학생으로 데이터분석 플랫폼 개발에 관심이 있습니다.</h3>
-<h3 align="left">전반적인 개발을 진행하며 , IT 기획 , IT 프로젝트 관리 등 전사적인 프로젝트를 관리하는데 관심이 많습니다.</h3>
-<h3 align="left">산업공학도로서 대안 속에서 문제를 발견 하고 최적의 해결책을 통해 가치를 도출 하는 일련의 프로세스를 좋아합니다.</h3>
+<h3 align="left">"As a student majoring in 'Data Science Software' as my interdisciplinary field, I am interested in developing data analysis platforms."</h3>
+<h3 align="left">"I am interested in managing comprehensive projects such as IT planning and IT project management while participating in overall development processes."</h3>
+<h3 align="left">I enjoy the process of identifying problems within alternatives as an "industrial engineer" and deriving value through optimal solutions.</h3>
 
 <h2>- 🔭 I’m currently working on Dongguk university </h2>
 
