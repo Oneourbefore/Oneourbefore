@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm KyoungHyun</h1>
-<h3 align="left">👨‍💻 As a student majoring in 'Data Science Software' as interdisciplinary field, interested in developing data analysis platforms.</h3>
+<h6 align="left">👨‍💻 As a student majoring in 'Data Science Software' as interdisciplinary field, interested in developing data analysis platforms.</h6>
 <h3 align="left">👨‍💻 I am interested in managing comprehensive projects such as IT planning and IT project management while participating in overall development processes.</h3>
 <h3 align="left">👨‍💻 I enjoy the process of identifying problems within alternatives as an "industrial engineer" and deriving value through optimal solutions.</h3>
 
