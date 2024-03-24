@@ -2,9 +2,9 @@
 <h4 align="left">👨‍💻 I am interested in managing comprehensive projects such as IT project management, interested in developing data analysis platforms.</h4>
 <h4 align="left">👨‍💻 I enjoy the process of identifying problems within alternatives as an "industrial engineer" and deriving value through optimal solutions.</h4>
 
-<h2>- 🔭 I’m currently working on Dongguk university </h2>
+<h2> 🔭 I’m currently studying on Dongguk university </h2>
 
-- 👨‍💻 All of my projects are available at [https://gusty-flock-5cd.notion.site/8549b343371e43f290a0725b6c07635f](https://gusty-flock-5cd.notion.site/8549b343371e43f290a0725b6c07635f)
+👨‍💻 my projects [https://gusty-flock-5cd.notion.site/8549b343371e43f290a0725b6c07635f](https://gusty-flock-5cd.notion.site/8549b343371e43f290a0725b6c07635f)
 
 <h3 align="left">Connect with me  :  david1510@naver.com</h3>
 
