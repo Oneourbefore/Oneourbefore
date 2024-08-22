@@ -4,7 +4,6 @@
 
 <h2> 🔭 I’m currently studying on Dongguk university </h2>
 
-👨‍💻 my projects [https://gusty-flock-5cd.notion.site/8549b343371e43f290a0725b6c07635f](https://gusty-flock-5cd.notion.site/8549b343371e43f290a0725b6c07635f)
 
 <h3 align="left">Connect with me  :  david1510@naver.com</h3>
 
